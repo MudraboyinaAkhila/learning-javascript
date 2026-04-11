@@ -15,12 +15,24 @@
 
 // Arrays
 
-let userData = [10, "hello", 3.42, null, 'bye'];
+// let userData = [10, "hello", 3.42, null, 'bye'];
 
-// console.log(userData[0]);
+// // console.log(userData[0]);
 
-for(let index = 0; index < userData.length; index++) {
-    console.log(typeof userData[index]);
+// for(let index = 0; index < userData.length; index++) {
+//     console.log(typeof userData[index]);
 
-}
-let A = [1, 2, 3, 4, 5]
+// }
+// let A = [1, 2, 3, 4, 5]
+
+let userData = [10, "hello", 3.45, null, 'bye'];
+
+console.log(userData);
+
+// userData.push(20)
+// userData.pop(10)
+
+// userData.shift()
+// userData.unshift("akhila")
+
+console.log(userData);
