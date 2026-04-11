@@ -23,3 +23,4 @@ for(let index = 0; index < userData.length; index++) {
     console.log(typeof userData[index]);
 
 }
+let A = [1, 2, 3, 4, 5]
